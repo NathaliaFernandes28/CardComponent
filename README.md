@@ -39,3 +39,6 @@ Card Component - Desktop
 ![image](https://github.com/NathaliaFernandes28/CardComponent/assets/88513545/c7325608-5be4-48ff-9bfc-41dfa3bf14f9)
 
 
+Meu perfil no Frontend Mentor:
+<a href="https://www.frontendmentor.io/profile/NathaliaFernandes28" target="_blank"><img align="center" src="https://img.shields.io/badge/-Frontend%20Mentor-5F3DC4?style=for-the-badge&logo=FrontendMentor&logoColor=white" alt="FrontEnd Mentor"/>
+</a>
